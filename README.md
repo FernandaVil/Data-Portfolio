@@ -95,7 +95,7 @@ In this section, I will list data analytics projects, briefly describing the tec
 - **University of Buenos Aires:** Bachelor of Science in Physics, Expected Graduation: 2027
 
 ## Certificates
-- [Google Data Analytics Professional Certificate] (https://coursera.org/share/b3624413dd093dfffc66cc11c369ca96)
+- [Google Data Analytics Professional Certificate](https://coursera.org/share/b3624413dd093dfffc66cc11c369ca96) (Coursera, Mar 2025)
 - [Tableau] (Coursera, Oct 2022)
 - [Python for Data Science] (Coursera, Feb 2023)
 
