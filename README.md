@@ -56,8 +56,7 @@ In this section, I list my data analytics projects, highlighting the tech stack 
 
 ## Certificates
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/b3624413dd093dfffc66cc11c369ca96) (Coursera, Mar 2025)
-- [Tableau] (Coursera, Oct 2022)
-- [Python for Data Science] (Coursera, Feb 2023)
+
 
 ## Contact
 - **LinkedIn:** [@fernandavillalba](https://www.linkedin.com/in/fernanda-villalba/)
