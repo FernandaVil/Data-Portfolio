@@ -15,6 +15,7 @@ Mi CV en [pdf](https://github.com/FernandaVil/Data-Portfolio/blob/main/FernandaV
 - [Certificaciones](#certificaciones)
 - [Contacto](#contacto)
 
+
 ## Proyectos de Portafolio
 
 ### Análisis de Retroceso Glaciar (Sentinel-2)
