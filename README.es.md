@@ -32,6 +32,9 @@ Mi CV en [pdf](https://github.com/FernandaVil/Data-Portfolio/blob/main/FernandaV
 - **Universidad de Buenos Aires:** Licenciatura en Ciencia de Datos, Graduación esperada: 2027.
 - **Universidad de Buenos Aires:** Licenciatura en Ciencias Físicas, Graduación esperada: 2027.
 
+## Certificaciones
+- [Google Data Analytics Professional Certificate](https://coursera.org/share/b3624413dd093dfffc66cc11c369ca96) (Coursera, Mar 2025)
+
 ## Contacto
 - **LinkedIn:** [@fernandavillalba](https://www.linkedin.com/in/fernanda-villalba/)
 - **Email:** mvillalbachia@gmail.com
