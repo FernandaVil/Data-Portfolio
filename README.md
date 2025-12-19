@@ -1,5 +1,5 @@
 # Data Analyst Portfolio
-
+> 🇪🇸 [Versión en Español](./README.es.md)
 ## About
 Hi, I'm María Fernanda! I am currently pursuing a dual degree in Data Science and Physics. With a solid foundation in analytical thinking and problem-solving, I am passionate about using data to uncover meaningful insights and drive decision-making. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
 
@@ -33,62 +33,22 @@ This repository showcases my skills, projects, and progress in Data Analytics/Da
 - [Contact](https://github.com/FernandaVil/Data-Portfolio/blob/main/README.md#contacts)
 
 ## Portfolio Projects
-In this section, I will list data analytics projects, briefly describing the technology stack used to solve cases.
+In this section, I list my data analytics projects, highlighting the tech stack and problem-solving approach.
 
-### Analyzing Football Match Outcomes
-**Code:** ['Analyzing_Football_Match_Outcomes.ipynb']
+### Glacier Retreat Analysis (Sentinel-2)
+**Code:** [Glaciar-Analysis-Sentinel2](https://github.com/FernandaVil/Glaciar-Analysis-Sentinel2)
 
-**Goal:** To determine the factors that contribute to the outcome of football matches.
+**Goal:** To quantify ice surface loss in the Perito Moreno Glacier using satellite imagery.
 
-**Description:** This project involved analyzing a dataset of football matches from various leagues. The dataset included match results, team statistics, player performances, and other relevant information. The project involved data cleaning, exploratory data analysis (EDA), and implementing statistical models to predict match outcomes.
+**Description:** An automated pipeline that processes Sentinel-2 (ESA) multispectral bands. It includes bilinear upsampling to standardize resolutions (10m/20m) and calculates the NDSI index to monitor glacier front variations.
 
-**Skills:** Data cleaning, data analysis, statistical modeling, data visualization.
+**Skills:** Remote Sensing, Geospatial Analysis, Raster Processing, Data Pipeline.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Technology:** Python, Rasterio, GeoPandas, Matplotlib, NumPy.
 
-**Results:** The analysis revealed key factors such as team form, player fitness, and home advantage that significantly impact match outcomes.
+**Results:** Accurate identification of ice retreat trends by comparing austral summer data (2020 vs 2025).
 
-### Sales Data Analysis
-**Code:** ['Sales_Data_Analysis.ipynb']
 
-**Goal:** To examine sales data and extract insights on performance and potential improvements.
-
-**Description:** The dataset contained sales records, including product details and order information. The project included data cleaning, EDA, and analyzing sales patterns and trends.
-
-**Skills:** Data cleaning, data analysis, data visualization.
-
-**Technology:** Python, Pandas, Matplotlib.
-
-**Results:** The analysis identified peak sales periods and high-demand products, providing actionable insights for inventory management and marketing strategies.
-
-### Housing Market Data Cleaning
-**Code:** ['Housing_Market_Data_Cleaning.sql']
-
-**Description:** This project involved cleaning a dataset of housing market transactions. The dataset included details on property sales, prices, and locations. The project focused on data cleaning and preprocessing.
-
-**Skills:** Data manipulation, data cleaning.
-
-**Technology:** SQL Server.
-
-### Covid-19 Data Exploration
-**Code:** ['COVID_Data_Exploration.sql']
-
-**Description:** This project involved exploring a dataset of Covid-19 cases, deaths, and vaccination records. The project included data cleaning, EDA, and analyzing trends and patterns.
-
-**Skills:** Joins, CTEs, temp tables, window functions, aggregate functions, creating views, converting data types.
-
-**Technology:** SQL Server.
-
-### Weather Pattern Analysis
-**Code:** ['Weather_Pattern_Analysis.R']
-
-**Goal:** To analyze weather patterns and predict weather conditions.
-
-**Description:** This project involved analyzing a dataset of weather records, including temperature, precipitation, and wind speed. The project included data cleaning, EDA, and implementing predictive models.
-
-**Skills:** Data cleaning, data analysis, data visualization.
-
-**Technology:** R, Tidyverse.
 
 ## Education
 - **University of Buenos Aires:** Bachelor of Science in Data Science, Expected Graduation: 2027
