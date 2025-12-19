@@ -7,7 +7,7 @@ Actualmente curso la doble licenciatura en **Ciencia de Datos** y **Física** en
 
 Durante mis estudios, he desarrollado la capacidad de trabajar con datos complejos, identificar patrones y derivar conclusiones accionables. Mi experiencia abarca diversas técnicas de análisis, gestión de datos y estadística.
 
-Mi CV en [pdf](https://github.com/FernandaVil/Data-Portfolio/blob/main/FernandaVillalbaCV.pdf)
+Mi CV en [pdf](https://github.com/FernandaVil/Data-Portfolio/blob/main/Fernanda_CV.pdf)
 
 ## Índice
 - [Proyectos de Portafolio](#proyectos-de-portafolio)
