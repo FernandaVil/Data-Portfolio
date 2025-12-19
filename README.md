@@ -104,4 +104,4 @@ In this section, I will list data analytics projects, briefly describing the tec
 - **Email:** mvillalbachia@gmail.com
 
 ## Acknowledgements
-This portfolio format is inspired by [Tianna Parris's Data Analyst Portfolio](https://github.com/TiannaParris/Data-Analyst-Portfolio).
+This portfolio format is inspired by [Tianna Parris's Data Analyst Portfolio](https://github.com/tiannaparris/Data-Analysis-Portfolio).
