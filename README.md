@@ -12,25 +12,11 @@ My CV in [pdf](https://github.com/FernandaVil/Data-Portfolio/blob/main/FernandaV
 This repository showcases my skills, projects, and progress in Data Analytics/Data Science.
 
 ## Table of Contents
-- [About](https://github.com/FernandaVil/Data-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/FernandaVil/Data-Portfolio/blob/main/README.md#portfolio-projects)
-  - Python
-    - [Glacier Retreat Analysis (Sentinel-2)]
-    - [Sales Data Analysis]
-  - SQL
-    - [Covid-19 Data Exploration]
-    - [Housing Market Data Cleaning]
-  - R
-    - [Weather Pattern Analysis]
-  - Excel / Google Sheets
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/m.fernanda.villalba)
-  - Power BI
-
-
-
-- [Education](https://github.com/FernandaVil/Data-Portfolio/blob/main/README.md#education)
-- [Certificates](https://github.com/FernandaVil/Data-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/FernandaVil/Data-Portfolio/blob/main/README.md#contacts)
+## Table of Contents
+- [Portfolio Projects](#portfolio-projects)
+- [Education](#education)
+- [Certificates](#certificates)
+- [Contact](#contact)
 
 ## Portfolio Projects
 In this section, I list my data analytics projects, highlighting the tech stack and problem-solving approach.
