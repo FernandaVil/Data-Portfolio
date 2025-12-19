@@ -15,7 +15,7 @@ This repository showcases my skills, projects, and progress in Data Analytics/Da
 - [About](https://github.com/FernandaVil/Data-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/FernandaVil/Data-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [Analyzing Football Match Outcomes]
+    - [Glacier Retreat Analysis (Sentinel-2)]
     - [Sales Data Analysis]
   - SQL
     - [Covid-19 Data Exploration]
