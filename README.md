@@ -1,11 +1,15 @@
 # Data Science Portfolio
 > 🇪🇸 [Versión en Español](./README.es.md)
 ## About
-Hi, I'm María Fernanda! I am currently pursuing a dual degree in Data Science and Physics. With a solid foundation in analytical thinking and problem-solving, I am passionate about using data to uncover meaningful insights and drive decision-making. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
+Hi, I'm María Fernanda!
 
-During my studies, I have developed a keen ability to work with complex data, identify patterns, and derive actionable insights. My experience spans various data analysis techniques, data management, and statistical analysis, which I believe are valuable assets in my role as a data specialist.
+I am pursuing a dual degree in Data Science and Physics at UBA.
 
-In my free time, I enjoy exploring new data analysis tools and techniques and am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+I see myself as an explorer using data to understand the world around us. With a strong foundation in Physics (3 years completed), I am currently focusing my energy on Data Science because I discovered a passion for solving tangible, real-world challenges—whether that’s tracking a glacier, simulating a volcano, or optimizing drone routes.
+
+I am currently in "exploration mode," applying my skills to Geophysics and Complex Natural Systems. While I have a special interest in environmental data and satellite imagery, I am open to tackling any data challenge that requires rigorous modeling and analytical thinking.
+
+Beyond the code: I am a lifelong learner. I enjoy scientific illustration with watercolor, playing strategy board games, and learning new languages. I bring that same mix of visual creativity and strategic thinking to every project I tackle.
 
 My CV in [pdf](https://github.com/FernandaVil/Data-Portfolio/blob/main/CV_ARG_EN.pdf)
 
