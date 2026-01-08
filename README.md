@@ -21,31 +21,10 @@ This repository showcases my skills, projects, and progress in Data Analytics/Da
 In this section, I list my data science projects, highlighting the tech stack and problem-solving approach.
 
 ### Glacier Retreat Analysis (Sentinel-2)
-**Code:** [Glaciar-Analysis-Sentinel2](https://github.com/FernandaVil/Glaciar-Analysis-Sentinel2)
-
-**Goal:** To quantify ice surface loss in the Perito Moreno Glacier using satellite imagery.
-
-**Description:** An automated pipeline that processes Sentinel-2 (ESA) multispectral bands. It includes bilinear upsampling to standardize resolutions (10m/20m) and calculates the NDSI index to monitor glacier front variations.
-
-**Skills:** Remote Sensing, Geospatial Analysis, Raster Processing, Data Pipeline.
-
-**Technology:** Python, Rasterio, GeoPandas, Matplotlib, NumPy.
-
-**Results:** Accurate identification of ice retreat trends by comparing austral summer data (2020 vs 2025).
+An automated geospatial pipeline designed to quantify ice surface loss in the Perito Moreno Glacier. By processing Sentinel-2 multispectral bands with Python and Rasterio, the system calculates NDSI indices to visualize and measure retreat trends between 2020 and 2025. 👉 [View the pipeline & results](https://github.com/FernandaVil/Glaciar-Analysis-Sentinel2)
 
 ### Volcanic Ash Dispersion (Stochastic Model)
-
-**Code:** [Volcanic-Ash-Simulation](https://github.com/FernandaVil/volcanic-ash-simulation) 
-
-**Goal:** To model atmospheric transport of volcanic ash for risk assessment using physics-based simulations.
-
-**Description:** A custom physics engine solving Langevin Stochastic Differential Equations (SDEs) to model turbulent dispersion. It features a dual-mode analysis: probabilistic risk mapping via Monte Carlo simulations and a deterministic historical reconstruction of the 2015 Calbuco Eruption.
-
-**Skills:** Mathematical Modeling, Stochastic Processes, Computational Physics, Geospatial Visualization.
-
-**Technology:** Python, NumPy (Vectorized), Folium, Matplotlib, SciPy.
-
-**Results**: Validated against NASA satellite imagery, successfully reproducing the NE trajectory and the ~1.5h arrival time to Bariloche.
+I developed a custom physics engine to model turbulent ash dispersion using Langevin Stochastic Equations. The project features a dual-mode analysis: probabilistic risk mapping and a historical reconstruction of the 2015 Calbuco eruption, successfully validated against NASA satellite imagery. 👉 [Read the full case study & see the simulation](https://github.com/FernandaVil/volcanic-ash-simulation) 
 
 
 ## Education
