@@ -1,4 +1,4 @@
-# Data Analyst Portfolio
+# Data Science Portfolio
 > 🇪🇸 [Versión en Español](./README.es.md)
 ## About
 Hi, I'm María Fernanda! I am currently pursuing a dual degree in Data Science and Physics. With a solid foundation in analytical thinking and problem-solving, I am passionate about using data to uncover meaningful insights and drive decision-making. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
