@@ -12,7 +12,6 @@ My CV in [pdf](https://github.com/FernandaVil/Data-Portfolio/blob/main/CV_ARG_EN
 This repository showcases my skills, projects, and progress in Data Analytics/Data Science.
 
 ## Table of Contents
-## Table of Contents
 - [Portfolio Projects](#portfolio-projects)
 - [Education](#education)
 - [Certificates](#certificates)
