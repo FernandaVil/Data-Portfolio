@@ -19,7 +19,7 @@ This repository showcases my skills, projects, and progress in Data Analytics/Da
 - [Contact](#contact)
 
 ## Portfolio Projects
-In this section, I list my data analytics projects, highlighting the tech stack and problem-solving approach.
+In this section, I list my data science projects, highlighting the tech stack and problem-solving approach.
 
 ### Glacier Retreat Analysis (Sentinel-2)
 **Code:** [Glaciar-Analysis-Sentinel2](https://github.com/FernandaVil/Glaciar-Analysis-Sentinel2)
@@ -34,6 +34,19 @@ In this section, I list my data analytics projects, highlighting the tech stack 
 
 **Results:** Accurate identification of ice retreat trends by comparing austral summer data (2020 vs 2025).
 
+### Volcanic Ash Dispersion (Stochastic Model)
+
+**Code:** [Volcanic-Ash-Simulation](https://github.com/FernandaVil/volcanic-ash-simulation) 
+
+**Goal:** To model atmospheric transport of volcanic ash for risk assessment using physics-based simulations.
+
+**Description:** A custom physics engine solving Langevin Stochastic Differential Equations (SDEs) to model turbulent dispersion. It features a dual-mode analysis: probabilistic risk mapping via Monte Carlo simulations and a deterministic historical reconstruction of the 2015 Calbuco Eruption.
+
+**Skills:** Mathematical Modeling, Stochastic Processes, Computational Physics, Geospatial Visualization.
+
+**Technology:** Python, NumPy (Vectorized), Folium, Matplotlib, SciPy.
+
+**Results**: Validated against NASA satellite imagery, successfully reproducing the NE trajectory and the ~1.5h arrival time to Bariloche.
 
 
 ## Education
@@ -48,5 +61,4 @@ In this section, I list my data analytics projects, highlighting the tech stack 
 - **LinkedIn:** [@fernandavillalba](https://www.linkedin.com/in/fernanda-villalba/)
 - **Email:** mvillalbachia@gmail.com
 
-## Acknowledgements
-This portfolio format is inspired by [Tianna Parris's Data Analyst Portfolio](https://github.com/tiannaparris/Data-Analysis-Portfolio).
+
