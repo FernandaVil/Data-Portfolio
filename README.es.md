@@ -16,9 +16,9 @@ Mi CV en [pdf](https://github.com/FernandaVil/Data-Portfolio/blob/main/CV_ARG_ES
 - [Contacto](#contacto)
 
 
-## Proyectos de Portafolio
+## Proyectos de portafolio
 
-### Análisis de Retroceso Glaciar (Sentinel-2)
+### Análisis de retroceso glaciar (Sentinel-2)
 **Código:** [Glaciar-Analysis-Sentinel2](https://github.com/FernandaVil/Glaciar-Analysis-Sentinel2)
 
 **Objetivo:** Cuantificar la pérdida de superficie de hielo en el Glaciar Perito Moreno mediante imágenes satelitales.
@@ -27,7 +27,17 @@ Mi CV en [pdf](https://github.com/FernandaVil/Data-Portfolio/blob/main/CV_ARG_ES
 
 **Tecnología:** Python, Rasterio, GeoPandas, Matplotlib.
 
+### Simulación de ceniza volcánica (Modelo estocástico)
 
+**Código:** [Volcanic-Ash-Simulation](https://github.com/FernandaVil/volcanic-ash-simulation)
+
+**Objetivo:** Modelar el transporte atmosférico de ceniza para evaluación de riesgos utilizando simulaciones basadas en física computacional.
+
+**Descripción:** Desarrollo de un motor físico propio que resuelve Ecuaciones Diferenciales Estocásticas (SDEs) de Langevin para modelar la dispersión turbulenta. El sistema implementa un análisis dual: generación de mapas de riesgo probabilísticos (Monte Carlo) y una reconstrucción histórica validada de la Erupción del Calbuco 2015.
+
+**Tecnología:** Python, NumPy, Folium, Matplotlib, SciPy.
+
+**Resultados:** El modelo fue validado exitosamente contra imágenes satelitales de la NASA, reproduciendo la trayectoria Noreste y el tiempo de arribo (~1.5h) a Bariloche reportado en 2015.
 
 ## Educación
 - **Universidad de Buenos Aires:** Licenciatura en Ciencia de Datos, Graduación esperada: 2027.
