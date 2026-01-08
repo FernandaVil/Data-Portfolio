@@ -3,9 +3,13 @@
 > 🇺🇸 [English Version](./README.md)
 
 ## Sobre mí
-Actualmente curso la doble licenciatura en **Ciencia de Datos** y **Física** en la **Universidad de Buenos Aires (UBA)**. Poseo una sólida base en pensamiento analítico y resolución de problemas, y me apasiona utilizar los datos para descubrir conocimientos significativos que impulsen la toma de decisiones.
+Actualmente curso la doble licenciatura en Ciencia de Datos y Física en la UBA.
 
-Durante mis estudios, he desarrollado la capacidad de trabajar con datos complejos, identificar patrones y derivar conclusiones accionables. Mi experiencia abarca diversas técnicas de análisis, gestión de datos y estadística.
+Me considero una exploradora que utiliza los datos para entender el mundo que nos rodea. Con una sólida base en Física (3 años completados), actualmente enfoco mi energía en la Ciencia de Datos tras descubrir mi pasión por resolver desafíos tangibles del mundo real: desde el seguimiento de un glaciar hasta la simulación de un volcán o la optimización de rutas de drones.
+
+Me encuentro en "modo exploración", aplicando mis conocimientos a la Geofísica y los sistemas naturales complejos. Si bien tengo un interés especial en los datos ambientales y las imágenes satelitales, estoy abierta a enfrentar cualquier reto de datos que requiera un modelado riguroso y pensamiento analítico.
+
+Más allá del código: Soy una aprendiz de por vida. Me apasiona la ilustración científica con acuarela, jugar juegos de mesa de estrategia y aprender nuevos idiomas. Aporto esa misma mezcla de creatividad visual y pensamiento estratégico a cada proyecto que emprendo.
 
 Mi CV en [pdf](https://github.com/FernandaVil/Data-Portfolio/blob/main/CV_ARG_ES.pdf)
 
