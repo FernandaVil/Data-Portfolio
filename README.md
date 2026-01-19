@@ -33,7 +33,7 @@ I developed a custom physics engine to model turbulent ash dispersion using Lang
 
 ## Education
 - **University of Buenos Aires:** Bachelor of Science in Data Science, Expected Graduation: 2027
-- **University of Buenos Aires:** Bachelor of Science in Physics, Expected Graduation: 2027
+- **University of Buenos Aires:** Bachelor of Science in Physics (3 years compelted)
 
 ## Certificates
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/b3624413dd093dfffc66cc11c369ca96) (Coursera, Mar 2025)
