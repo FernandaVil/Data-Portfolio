@@ -44,6 +44,7 @@ Designed a mission-critical system to optimize autonomous drone routes in Iguaz√
 - **University of Buenos Aires:** Bachelor of Science in Physics (3 years compelted)
 
 ## Certificates
+- [SQL Intermediate Professional Certificate](https://www.hackerrank.com/certificates/6e7a6b46dc51) (HackerRank, Jan 2026)
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/b3624413dd093dfffc66cc11c369ca96) (Coursera, Mar 2025)
 
 
