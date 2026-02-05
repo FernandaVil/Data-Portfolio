@@ -42,6 +42,7 @@ Diseñé un sistema para optimizar rutas de vuelo autónomas en el Parque Nacion
 - **Universidad de Buenos Aires:** Licenciatura en Ciencias Físicas, Graduación esperada: 2027.
 
 ## Certificaciones
+-  [SQL Intermediate Professional Certificate](https://www.hackerrank.com/certificates/6e7a6b46dc51) (HackerRank, Ene 2026)
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/b3624413dd093dfffc66cc11c369ca96) (Coursera, Mar 2025)
 
 ## Contacto
