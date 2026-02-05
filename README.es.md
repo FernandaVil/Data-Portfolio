@@ -23,10 +23,19 @@ Mi CV en [pdf](https://github.com/FernandaVil/Data-Portfolio/blob/main/CV_ARG_ES
 ## Proyectos de portafolio
 
 ### Análisis de retroceso glaciar (Sentinel-2)
-Un pipeline geoespacial automatizado para cuantificar la pérdida de hielo en el Glaciar Perito Moreno. Utilizando Python y teledetección, el sistema procesa bandas espectrales Sentinel-2 para calcular índices NDSI y visualizar las tendencias de retroceso entre 2020 y 2025. 👉 [Ver proyecto y mapas procesados](https://github.com/FernandaVil/Glaciar-Analysis-Sentinel2)
+Un pipeline geoespacial automatizado para cuantificar la pérdida de hielo en el Glaciar Perito Moreno. Utilizando Python y teledetección, el sistema procesa bandas espectrales Sentinel-2 para calcular índices NDSI y visualizar las tendencias de retroceso entre 2020 y 2025.
+
+👉 [Ver proyecto y mapas procesados](https://github.com/FernandaVil/Glaciar-Analysis-Sentinel2)
 
 ### Simulación de ceniza volcánica (Modelo estocástico)
-Desarrollé un motor físico propio para modelar la dispersión turbulenta mediante Ecuaciones Estocásticas de Langevin. El proyecto incluye mapas de riesgo probabilísticos y una reconstrucción histórica de la erupción del Calbuco 2015, validada exitosamente con imágenes satelitales de la NASA. 👉 [Ver simulación y análisis completo](https://github.com/FernandaVil/volcanic-ash-simulation)
+Desarrollé un motor físico propio para modelar la dispersión turbulenta mediante Ecuaciones Estocásticas de Langevin. El proyecto incluye mapas de riesgo probabilísticos y una reconstrucción histórica de la erupción del Calbuco 2015, validada exitosamente con imágenes satelitales de la NASA. 
+
+👉 [Ver simulación y análisis completo](https://github.com/FernandaVil/volcanic-ash-simulation)
+
+### Optimización de patrullaje con drones (MIP y teoría de grafos)
+Diseñé un sistema para optimizar rutas de vuelo autónomas en el Parque Nacional Iguazú. Ante la restricción de 40 minutos de batería, implementé **Programación Lineal Entera (MIP)** y restricciones de **Miller-Tucker-Zemlin (MTZ)** para resolver el *Orienteering Problem*. El modelo maximiza la vigilancia de puntos críticos priorizando objetivos estratégicos, superando la eficiencia de las heurísticas tradicionales. 
+
+👉 [Ver optimización y mapas interactivos](https://github.com/FernandaVil/drone-patrol-optimization)
 
 ## Educación
 - **Universidad de Buenos Aires:** Licenciatura en Ciencia de Datos, Graduación esperada: 2027.
