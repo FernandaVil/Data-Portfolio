@@ -30,6 +30,8 @@ An automated geospatial pipeline designed to quantify ice surface loss in the Pe
 ### Volcanic Ash Dispersion (Stochastic Model)
 I developed a custom physics engine to model turbulent ash dispersion using Langevin Stochastic Equations. The project features a dual-mode analysis: probabilistic risk mapping and a historical reconstruction of the 2015 Calbuco eruption, successfully validated against NASA satellite imagery. 👉 [Read the full case study & see the simulation](https://github.com/FernandaVil/volcanic-ash-simulation) 
 
+### Drone Patrol Optimization (MIP & Graph Theory)
+Designed a mission-critical system to optimize autonomous drone routes in Iguazú National Park. Faced with a 40-minute battery constraint, I implemented **Mixed-Integer Programming (MIP)** and **Miller-Tucker-Zemlin (MTZ)** constraints to solve the *Orienteering Problem*. The solution maximizes forest surveillance by intelligently prioritizing hotspots, outperforming standard greedy heuristics. 👉 [Explore the optimization & interactive maps](https://github.com/FernandaVil/drone-patrol-optimization)
 
 ## Education
 - **University of Buenos Aires:** Bachelor of Science in Data Science, Expected Graduation: 2027
