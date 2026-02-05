@@ -16,6 +16,7 @@ Mi CV en [pdf](https://github.com/FernandaVil/Data-Portfolio/blob/main/CV_ARG_ES
 ## Índice
 - [Proyectos de Portafolio](#proyectos-de-portafolio)
 - [Educación](#educación)
+- [Habilidades técnicas](#habilidades-técnicas)
 - [Certificaciones](#certificaciones)
 - [Contacto](#contacto)
 
@@ -41,6 +42,17 @@ Diseñé un sistema para optimizar rutas de vuelo autónomas en el Parque Nacion
 - **Universidad de Buenos Aires:** Licenciatura en Ciencia de Datos, Graduación esperada: 2027.
 - **Universidad de Buenos Aires:** Licenciatura en Ciencias Físicas, Graduación esperada: 2027.
 
+## Habilidades técnicas
+
+* **Algoritmos y modelado:** Diseño de algoritmos, estructuras de datos y resolución de problemas de optimización (MIP, Heurísticas).
+* **Ciencia de datos:** Análisis exploratorio de datos (EDA), estadística computacional y visualización de datos.
+* **Herramientas de programación:**
+    * **Python:** Manejo de librerías esenciales (Pandas, Numpy, Matplotlib).
+    * **SQL:** Nivel intermedio (Certificación HackerRank).
+    * **Otros:** Conocimientos académicos de R.
+* **Enfoque actual:** Aplicación de herramientas geoespaciales (Folium, Rasterio) y simulación de sistemas físicos.
+
+---
 ## Certificaciones
 -  [SQL Intermediate Professional Certificate](https://www.hackerrank.com/certificates/6e7a6b46dc51) (HackerRank, Ene 2026)
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/b3624413dd093dfffc66cc11c369ca96) (Coursera, Mar 2025)
