@@ -18,6 +18,7 @@ This repository showcases my skills, projects, and progress in Data Analytics/Da
 ## Table of Contents
 - [Portfolio Projects](#portfolio-projects)
 - [Education](#education)
+- [Technical Skills](#technical-skills)
 - [Certificates](#certificates)
 - [Contact](#contact)
 
@@ -42,6 +43,16 @@ Designed a mission-critical system to optimize autonomous drone routes in Iguaz√
 ## Education
 - **University of Buenos Aires:** Bachelor of Science in Data Science, Expected Graduation: 2027
 - **University of Buenos Aires:** Bachelor of Science in Physics (3 years compelted)
+
+## Technical Skills
+
+* **Algorithms & Modeling:** Algorithm design, data structures, and optimization problem-solving (MIP, Heuristics).
+* **Data Science:** Exploratory Data Analysis (EDA), computational statistics, and data visualization.
+* **Programming Tools:**
+    * **Python:** Proficiency in core data libraries (Pandas, Numpy, Matplotlib).
+    * **SQL:** Intermediate level (HackerRank Certification).
+    * **Others:** Academic background in R.
+* **Current Focus:** Application of geospatial tools (Folium, Rasterio) and simulation of physical systems.
 
 ## Certificates
 - [SQL Intermediate Professional Certificate](https://www.hackerrank.com/certificates/6e7a6b46dc51) (HackerRank, Jan 2026)
