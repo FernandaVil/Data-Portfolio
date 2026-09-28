@@ -54,15 +54,14 @@ Diseñé un sistema para optimizar rutas de vuelo autónomas en el Parque Nacion
 - **Universidad de Buenos Aires:** Licenciatura en Ciencia de Datos, Graduación esperada: 2027.
 - **Universidad de Buenos Aires:** Licenciatura en Ciencias Físicas, Graduación esperada: en pausa.
 
+
 ## Habilidades técnicas
 
-* **Algoritmos y modelado:** Diseño de algoritmos, estructuras de datos y resolución de problemas de optimización (MIP, Heurísticas).
-* **Ciencia de datos:** Análisis exploratorio de datos (EDA), estadística computacional y visualización de datos.
-* **Herramientas de programación:**
-    * **Python:** Manejo de librerías esenciales (Pandas, Numpy, Matplotlib).
-    * **SQL:** Nivel intermedio (Certificación HackerRank).
-    * **Otros:** Conocimientos académicos de R.
-* **Enfoque actual:** Aplicación de herramientas geoespaciales (Folium, Rasterio) y simulación de sistemas físicos.
+* **Modelado y ciencia de datos:** Machine learning (Scikit-Learn, Random Forest), deep learning (PyTorch, arquitecturas U-Net), simulación estocástica y optimización matemática (MIP, heurísticas).
+* **Inteligencia geoespacial (GeoAI):** Google Earth Engine, Geemap, Geopandas, Rasterio y procesamiento de imágenes satelitales (ópticas y radar).
+* **Ingeniería de datos e infraestructura:** Apache Spark, Docker, modelado en bases de datos relacionales (PostgreSQL) y NoSQL (MongoDB, Redis).
+* **Lenguajes:** Python, SQL y R.
+* **Enfoque actual:** Asimilación de datos, análisis topológico de datos en dinámicas caóticas y aplicaciones de inteligencia artificial en fluidos geofísicos.
 
 ---
 ## Certificaciones
