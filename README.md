@@ -57,15 +57,13 @@ Designed a mission-critical system to optimize autonomous drone routes in Iguaz√
 - **University of Buenos Aires:** Bachelor of Science in Data Science, Expected Graduation: 2027
 - **University of Buenos Aires:** Bachelor of Science in Physics (3 years compelted)
 
-## Technical Skills
+## Technical skills
 
-* **Algorithms & Modeling:** Algorithm design, data structures, and optimization problem-solving (MIP, Heuristics).
-* **Data Science:** Exploratory Data Analysis (EDA), computational statistics, and data visualization.
-* **Programming Tools:**
-    * **Python:** Proficiency in core data libraries (Pandas, Numpy, Matplotlib).
-    * **SQL:** Intermediate level (HackerRank Certification).
-    * **Others:** Academic background in R.
-* **Current Focus:** Application of geospatial tools (Folium, Rasterio) and simulation of physical systems.
+* **Data science and modeling:** Machine learning (Scikit-Learn, Random Forest), stochastic simulation, and mathematical optimization (MIP).
+* **Geospatial tools:** Applied satellite imagery processing and spatial analysis (Geopandas, Rasterio, Google Earth Engine, Folium).
+* **Data engineering (foundational):** Relational modeling (PostgreSQL), NoSQL databases (MongoDB, Redis), and core concepts of distributed processing (Apache Spark, Docker containers).
+* **Languages:** Python, SQL , and R.
+* **Current study focus:** Training my first deep learning architectures (PyTorch) and theoretically exploring geophysical dynamics and topological data analysis.
 
 ## Certificates
 - [SQL Intermediate Professional Certificate](https://www.hackerrank.com/certificates/6e7a6b46dc51) (HackerRank, Jan 2026)
