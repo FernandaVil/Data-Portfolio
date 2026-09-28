@@ -29,6 +29,11 @@ Mi CV en [pdf](https://github.com/FernandaVil/Data-Portfolio/blob/main/CV_ARG_ES
 
 
 ## Proyectos de portafolio
+### Arquitectura de datos para sistema de delivery (SQL, NoSQL & Spark)
+
+Una infraestructura de datos de extremo a extremo, completamente contenerizada, que simula una plataforma de pedidos de comida de alto volumen. Desarrollado de forma colaborativa, este proyecto integra PostgreSQL para el modelado transaccional, Apache Spark para la analítica distribuida con MapReduce, y MongoDB/Redis para la gestión de estados en tiempo real.
+
+👉 [Ver la arquitectura e infraestructura](https://github.com/FernandaVil/TP-base-de-datos)
 
 ### Análisis de retroceso glaciar (Sentinel-2)
 Un pipeline geoespacial automatizado para cuantificar la pérdida de hielo en el Glaciar Perito Moreno. Utilizando Python y teledetección, el sistema procesa bandas espectrales Sentinel-2 para calcular índices NDSI y visualizar las tendencias de retroceso entre 2020 y 2025.
