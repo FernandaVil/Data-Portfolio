@@ -47,7 +47,7 @@ Diseñé un sistema para optimizar rutas de vuelo autónomas en el Parque Nacion
 
 ## Educación
 - **Universidad de Buenos Aires:** Licenciatura en Ciencia de Datos, Graduación esperada: 2027.
-- **Universidad de Buenos Aires:** Licenciatura en Ciencias Físicas, Graduación esperada: 2027.
+- **Universidad de Buenos Aires:** Licenciatura en Ciencias Físicas, Graduación esperada: en pausa.
 
 ## Habilidades técnicas
 
