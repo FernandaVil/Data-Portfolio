@@ -31,8 +31,11 @@ This repository showcases my skills, projects, and progress in Data Analytics/Da
 
 ## Portfolio Projects
 In this section, I list my data science projects, highlighting the tech stack and problem-solving approach.
-### Food Delivery Data Architecture (SQL, NoSQL & Spark)
-A fully containerized end-to-end data infrastructure simulating a high-volume food delivery platform. Collaboratively built, this project integrates PostgreSQL for transactional modeling, Apache Spark for distributed MapReduce analytics, and MongoDB/Redis for real-time state management.
+
+### Food delivery data architecture (SQL, NoSQL & Spark)
+
+A fully containerized end-to-end data infrastructure simulating a high-volume food delivery platform. Collaboratively built, this project integrates PostgreSQL for transactional modeling, Apache Spark for distributed MapReduce analytics, and MongoDB/Redis for real-time state management. *(Note: source code and database variables are in Spanish).*
+
 👉 [View the architecture & infrastructure](https://github.com/FernandaVil/TP-base-de-datos)
 
 ### Glacier Retreat Analysis (Sentinel-2)
