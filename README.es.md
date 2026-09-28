@@ -57,11 +57,11 @@ Diseñé un sistema para optimizar rutas de vuelo autónomas en el Parque Nacion
 
 ## Habilidades técnicas
 
-* **Modelado y ciencia de datos:** Machine learning (Scikit-Learn, Random Forest), deep learning (PyTorch, arquitecturas U-Net), simulación estocástica y optimización matemática (MIP, heurísticas).
-* **Inteligencia geoespacial (GeoAI):** Google Earth Engine, Geemap, Geopandas, Rasterio y procesamiento de imágenes satelitales (ópticas y radar).
-* **Ingeniería de datos e infraestructura:** Apache Spark, Docker, modelado en bases de datos relacionales (PostgreSQL) y NoSQL (MongoDB, Redis).
-* **Lenguajes:** Python, SQL y R.
-* **Enfoque actual:** Asimilación de datos, análisis topológico de datos en dinámicas caóticas y aplicaciones de inteligencia artificial en fluidos geofísicos.
+* **Ciencia de datos y modelado:** Machine learning (Scikit-Learn, Random Forest), simulación estocástica y resolución de problemas de optimización matemática (MIP).
+* **Herramientas geoespaciales:** Procesamiento aplicado de imágenes satelitales y análisis espacial (Geopandas, Rasterio, Google Earth Engine, Folium).
+* **Ingeniería de datos (nivel fundacional):** Modelado relacional (PostgreSQL), bases de datos NoSQL (MongoDB, Redis) y nociones de procesamiento distribuido (Apache Spark, contenedores Docker).
+* **Lenguajes:** Python , SQL y R.
+* **Enfoque actual de estudio:** Entrenando mis primeras arquitecturas de deep learning (PyTorch) e incursionando teóricamente en dinámicas geofísicas y análisis topológico de datos.
 
 ---
 ## Certificaciones
