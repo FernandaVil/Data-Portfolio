@@ -5,7 +5,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # Data Science Portfolio
-> 🇪🇸 [Versión en Español](./README.es.md)
+> 🇪🇸 [Versión en Español](./README.md)
 
 ## About
 Hi, I'm María Fernanda!
