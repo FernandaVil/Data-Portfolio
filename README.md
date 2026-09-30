@@ -7,7 +7,7 @@
 
 # Portafolio de Ciencia de Datos
 
-> 🇺🇸 [English Version](./README.md)
+> 🇺🇸 [English Version](./README.en.md)
 
 ## Sobre mí
 Actualmente curso la doble licenciatura en Ciencia de Datos y Física en la UBA.
