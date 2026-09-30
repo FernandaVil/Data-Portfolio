@@ -1,4 +1,3 @@
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -27,45 +26,42 @@ Mi CV en [pdf](https://github.com/FernandaVil/Data-Portfolio/blob/main/CV_ARG_ES
 - [Certificaciones](#certificaciones)
 - [Contacto](#contacto)
 
-
 ## Proyectos de portafolio
+
+### Corrección de ruido óptico climático con ML (MapBiomas) 🏆
+**Mención honorífica en el Premio MapBiomas Argentina 2026.** Proyecto que propone una evolución a los filtros temporales de post-procesamiento actuales, integrando inteligencia artificial (*Random Forest*) y reanálisis climático (ERA5). El modelo detecta y corrige transiciones espurias en las clasificaciones de cobertura de suelo provocadas por estrés hídrico extremo (como la sequía del Gran Chaco).
+👉 [Ver el repositorio y flujo de trabajo](https://github.com/FernandaVil/mapbiomas-ml-filtro-climatico)
+
 ### Arquitectura de datos para sistema de delivery (SQL, NoSQL & Spark)
-
 Una infraestructura de datos de extremo a extremo, completamente contenerizada, que simula una plataforma de pedidos de comida de alto volumen. Desarrollado de forma colaborativa, este proyecto integra PostgreSQL para el modelado transaccional, Apache Spark para la analítica distribuida con MapReduce, y MongoDB/Redis para la gestión de estados en tiempo real.
-
 👉 [Ver la arquitectura e infraestructura](https://github.com/FernandaVil/TP-base-de-datos)
 
 ### Análisis de retroceso glaciar (Sentinel-2)
 Un pipeline geoespacial automatizado para cuantificar la pérdida de hielo en el Glaciar Perito Moreno. Utilizando Python y teledetección, el sistema procesa bandas espectrales Sentinel-2 para calcular índices NDSI y visualizar las tendencias de retroceso entre 2020 y 2025.
-
 👉 [Ver proyecto y mapas procesados](https://github.com/FernandaVil/Glaciar-Analysis-Sentinel2)
 
 ### Simulación de ceniza volcánica (Modelo estocástico)
 Desarrollé un motor físico propio para modelar la dispersión turbulenta mediante Ecuaciones Estocásticas de Langevin. El proyecto incluye mapas de riesgo probabilísticos y una reconstrucción histórica de la erupción del Calbuco 2015, validada exitosamente con imágenes satelitales de la NASA. 
-
 👉 [Ver simulación y análisis completo](https://github.com/FernandaVil/volcanic-ash-simulation)
 
 ### Optimización de patrullaje con drones (MIP y teoría de grafos)
 Diseñé un sistema para optimizar rutas de vuelo autónomas en el Parque Nacional Iguazú. Ante la restricción de 40 minutos de batería, implementé **Programación Lineal Entera (MIP)** y restricciones de **Miller-Tucker-Zemlin (MTZ)** para resolver el *Orienteering Problem*. El modelo maximiza la vigilancia de puntos críticos priorizando objetivos estratégicos, superando la eficiencia de las heurísticas tradicionales. 
-
 👉 [Ver optimización y mapas interactivos](https://github.com/FernandaVil/drone-patrol-optimization)
 
 ## Educación
 - **Universidad de Buenos Aires:** Licenciatura en Ciencia de Datos, Graduación esperada: 2027.
 - **Universidad de Buenos Aires:** Licenciatura en Ciencias Físicas, Graduación esperada: en pausa.
 
-
 ## Habilidades técnicas
-
-* **Ciencia de datos y modelado:** Machine learning (Scikit-Learn, Random Forest), simulación estocástica y resolución de problemas de optimización matemática (MIP).
-* **Herramientas geoespaciales:** Procesamiento aplicado de imágenes satelitales y análisis espacial (Geopandas, Rasterio, Google Earth Engine, Folium).
-* **Ingeniería de datos (nivel fundacional):** Modelado relacional (PostgreSQL), bases de datos NoSQL (MongoDB, Redis) y nociones de procesamiento distribuido (Apache Spark, contenedores Docker).
-* **Lenguajes:** Python , SQL y R.
-* **Enfoque actual de estudio:** Entrenando mis primeras arquitecturas de deep learning (PyTorch) e incursionando teóricamente en dinámicas geofísicas y análisis topológico de datos.
+- **Ciencia de datos y modelado:** Machine learning (Scikit-Learn, Random Forest), simulación estocástica y resolución de problemas de optimización matemática (MIP).
+- **Herramientas geoespaciales:** Procesamiento aplicado de imágenes satelitales y análisis espacial (Geopandas, Rasterio, Google Earth Engine, geemap, Folium).
+- **Ingeniería de datos (nivel fundacional):** Modelado relacional (PostgreSQL), bases de datos NoSQL (MongoDB, Redis) y nociones de procesamiento distribuido (Apache Spark, contenedores Docker).
+- **Lenguajes y herramientas:** Python, SQL, R, Git y LaTeX.
+- **Enfoque actual de estudio:** Entrenando mis primeras arquitecturas de deep learning (PyTorch, redes U-Net) e incursionando teóricamente en dinámicas geofísicas y análisis topológico de datos.
 
 ---
 ## Certificaciones
--  [SQL Intermediate Professional Certificate](https://www.hackerrank.com/certificates/6e7a6b46dc51) (HackerRank, Ene 2026)
+- [SQL Intermediate Professional Certificate](https://www.hackerrank.com/certificates/6e7a6b46dc51) (HackerRank, Ene 2026)
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/b3624413dd093dfffc66cc11c369ca96) (Coursera, Mar 2025)
 
 ## Contacto
